@@ -1,5 +1,5 @@
 # exercice-repo
 Repo made for exercise
 We resolved the conflict!
-New!
+We resolved the next conflict!
 
